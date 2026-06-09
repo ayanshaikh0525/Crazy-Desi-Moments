@@ -1427,13 +1427,31 @@
       "drive_file_id": "1DfACf7kPAC9d9RtrTKbNjv2ZPiYbx9S2"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment",
+        "project": "Live Comedy/Podcast Showcase",
+        "summary": "A live comedy or podcast event titled 'India's Got Talent' held at a venue called 'The Habitat'. The footage features performers on stage with a microphone and a panel of hosts/judges seated at a branded table with food and drinks.",
+        "materials": [
+          "Pizza",
+          "Bottled water",
+          "Disposable coffee cups"
+        ],
+        "tools": [
+          "Microphone",
+          "Microphone stand",
+          "Branded event signage"
+        ],
+        "viral_hook": "Watch what happens when an open mic night meets a high-stakes talent show panel!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "KvQJVZRjQac",
+        "uploaded_at": "2026-06-09T06:16:40.527517",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1447,6 +1465,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T06:16:23.026778"
     }
   },
   {
