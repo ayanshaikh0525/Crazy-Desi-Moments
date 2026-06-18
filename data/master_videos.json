@@ -2536,13 +2536,32 @@
       "drive_file_id": "1DLrYhF1eyzpq1_uxZeGJljj7w_TcnM7t"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment / Comedy",
+        "project": "Comedy Roast or Stand-up Judging Competition",
+        "summary": "A video featuring a stand-up comedian performing on stage while a panel of judges rates his performance. The judges assign individual numerical scores to the comedian, which are then averaged to provide a final rating for the performance.",
+        "materials": [
+          "Microphones",
+          "Stage lighting",
+          "Table and chairs for judges",
+          "Performance stage",
+          "Sound system"
+        ],
+        "tools": [
+          "Video editing software for score overlays",
+          "Digital recording equipment"
+        ],
+        "viral_hook": "Will he survive the panel? Watch live as a comedian gets rated by a brutal panel of judges."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "rieEzLxQbQ0",
+        "uploaded_at": "2026-06-18T09:43:13.777261",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2556,6 +2575,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T09:43:08.949063"
     }
   },
   {
